@@ -4,7 +4,7 @@
 
 I created my portfolio in order to showcase some of the highlights about who I am that was responsive both to a computer web browser as well as on mobile. I have structured my portfolio to contain an About Me/home page, a portfolio page and a contact page in case the user of the site wants to get in contact with me. In order to create this portfolio, I first started coding in Visual Studio code using HTML and CSS and also incorporated elements from Bootstrap and made sure all elements were responsive and verified using my iPhone. I then published my site using github. 
 
-The link to my portfolio can be found here >> https://carolineablynch.github.io/CABLportfolio/index.html 
+The link to my portfolio can be found here >> https://carolineablynch.github.io/CABLPort/
 
 ## Credits
 
