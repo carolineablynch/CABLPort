@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CABLPort/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/CABLPort/static/js/main.305b0df4.chunk.js",
+    "main.js.map": "/CABLPort/static/js/main.305b0df4.chunk.js.map",
+    "runtime-main.js": "/CABLPort/static/js/runtime-main.42567d78.js",
+    "runtime-main.js.map": "/CABLPort/static/js/runtime-main.42567d78.js.map",
+    "static/css/2.658248ec.chunk.css": "/CABLPort/static/css/2.658248ec.chunk.css",
+    "static/js/2.a66b5c2b.chunk.js": "/CABLPort/static/js/2.a66b5c2b.chunk.js",
+    "static/js/2.a66b5c2b.chunk.js.map": "/CABLPort/static/js/2.a66b5c2b.chunk.js.map",
+    "static/js/3.dd0ffc57.chunk.js": "/CABLPort/static/js/3.dd0ffc57.chunk.js",
+    "static/js/3.dd0ffc57.chunk.js.map": "/CABLPort/static/js/3.dd0ffc57.chunk.js.map",
+    "index.html": "/CABLPort/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/CABLPort/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/CABLPort/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a66b5c2b.chunk.js.LICENSE.txt": "/CABLPort/static/js/2.a66b5c2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42567d78.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.a66b5c2b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.305b0df4.chunk.js"
+  ]
+}
