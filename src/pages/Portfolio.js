@@ -47,3 +47,16 @@ const projects = [
       repoLink: ""
     }
   ];
+
+  export default function Portfolio({ match }) {
+    return (
+      <Layout match={match}>
+        <Bounce bottom>
+          <h1>Portfolio</h1>
+          {projects.map((project, index) => (
+            <Project key={String(index)} {...project} />
+          ))}
+        </Bounce>
+      </Layout>
+    );
+  }
